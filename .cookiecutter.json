@@ -1,0 +1,11 @@
+{
+    "library_name": "topology_lib_SNMP_Get",
+    "author": "Hewlett Packard Enterprise Development LP",
+    "email": "mohan.raj.thangamani@hpe.com",
+    "repo_url": "https://github.com/thangamo/SNMP_get",
+    "doc_url": "https://github.com/thangamo/SNMP_get/tree/master/doc",
+    "project_name": "SNMP_Get Communication Library for Topology",
+    "short_description": "This is a SNMP_get Library",
+    "year": "2016",
+    "version": "0.1.0"
+}
