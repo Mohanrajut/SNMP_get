@@ -25,12 +25,13 @@ from __future__ import print_function, division
 # Add your library functions here.
 
 
-def your_function_here():
+def snmp_get():
     """
     Document your function here.
     """
+    print ("This is a sample SNMP get operation")
     pass
 
 __all__ = [
-    'your_function_here'
+    'snmp_get'
 ]
